@@ -186,3 +186,11 @@ dist-ssr
 *.sw?
 .db
 database.db
+*.sqlite
+*.sqlite3
+*.frx
+*.apk
+*.otf
+*.ttf
+*.woff
+*.woff2
