@@ -8,6 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 gallery/
+gellary/
 .Python
 build/
 develop-eggs/
